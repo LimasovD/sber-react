@@ -1,9 +1,8 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-import App from "./App";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './style.css'
 
 ReactDOM.render(
-	<App/>,
-	document.querySelector("#root")
-);
+    <div className="wrapper"></div>,
+    document.querySelector("#root")
+)

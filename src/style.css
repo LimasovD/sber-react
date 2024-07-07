@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: "Nunito", "Arial", "Helvetica", sans-serif;
+}
+.wrapper {
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+    gap: 20px;
+}
